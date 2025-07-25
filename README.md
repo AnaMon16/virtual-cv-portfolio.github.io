@@ -1,23 +1,24 @@
 # virtual-cv-portfolio
 
 Virtual CV of Anastasia Meyer
-A portfolio website to showcase my CV, contact details, skills, background, and projects.
+A portfolio website to showcase about me, project, skills, certificates, cv, and where to contact me.
 
 
 ## 🌟 Features
 
 - Professional and clean design
-- About Me page with bio and a photo
-- CV download link
-- Projects page with GitHub repopsitory links
+- About with bio and a photo
+- Projects with GitHub repopsitory links
 - Skills list
-- Contact information
+- Certificate with .pdf links
+- CV download link
+- Contact info
 
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Git & GitHub
 
 
